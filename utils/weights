@@ -1,0 +1,5 @@
+some weights that works ok
+content -> (c, s, tv) = (1e5, 3e4, 1e0)
+style -> (c, s, tv) = (1e5, 1e1, 1e-1)
+random -> (c, s, tv) = (1e5, 1e3, 1e0)
+
