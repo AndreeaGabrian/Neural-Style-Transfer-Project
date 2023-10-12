@@ -35,3 +35,4 @@ Generating one stylized image requires a lot of computation, so if CUDA is avail
 # Personal work and results
 * A written paper with the state of the art, proposed method and analysis: https://drive.google.com/file/d/1eIZcxtUGf3NKOo1J7G2GVVGF9U6eLXgl/view?usp=sharing
 * A video presenting the project and the results I've obtained: https://youtu.be/dK62-PEs3cw?si=kuFlukWr6bAljbED
+* Poster: https://drive.google.com/file/d/1vgTmUyp8RmoBzNVf1TCRE94IQ83urIBp/view?usp=sharing
