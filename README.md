@@ -23,7 +23,7 @@ The model used was extracted from pre-trained VGG19 network trained on ImageNet 
 For optimization part, I've followed the idea from [2] and expanations from [1] and [3], extending the code by my needs(used optimizer, number of iterations for backprop, etc.)
 
 # Project structure
-* model dir - contains the VGG19 model(etracted layers)
+* model dir - contains the VGG19 model(extracted layers)
 * utils dir - contains image processing functions(loading, tranforming), gram matrices construction, and running configurations(choices for input images, weights, paths, optimizer, etc)
 * data dir - contains input images(content and style) and output images(after style transfer)
 * the optimization algorithm is found in transfer_algorithm.py
